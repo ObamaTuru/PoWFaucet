@@ -13,7 +13,7 @@ faucetLogFile: "faucet-events.log"
 #faucetPidFile: "faucet-pid.txt"
 
 # faucet http/ws server port
-serverPort: 8080
+serverPort: 8172
 
 # title of the faucet
 faucetTitle: "Goerli PoW Faucet"
